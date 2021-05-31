@@ -1,7 +1,13 @@
-dmenu - dynamic menu
+dmenu-lbotano - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+Patches
+------------
+* dmenu-caseinsensitive
+* dmenu-fuzzymatch
+* dmenu-fuzzyhighlight
+* dmenu-lineheight
 
 Requirements
 ------------
